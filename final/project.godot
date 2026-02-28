@@ -14,6 +14,10 @@ config/name="Final"
 run/main_scene="uid://b3emaldwyl1ml"
 config/features=PackedStringArray("4.6", "Forward Plus")
 
+[dotnet]
+
+project/assembly_name="Final"
+
 [physics]
 
 3d/physics_engine="Jolt Physics"
