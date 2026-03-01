@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dj0bewbrrns5v"
+path="res://.godot/imported/Aso_-_Blankets_48KBPS (mp3cut.net).mp3-bd6b455f3c5d3a1ef7fbc61656041e53.mp3str"
+
+[deps]
+
+source_file="res://Aso_-_Blankets_48KBPS (mp3cut.net).mp3"
+dest_files=["res://.godot/imported/Aso_-_Blankets_48KBPS (mp3cut.net).mp3-bd6b455f3c5d3a1ef7fbc61656041e53.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

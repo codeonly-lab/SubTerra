@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://dg4odne252535"]
+
+[ext_resource type="FontFile" uid="uid://b76auixnanrlh" path="res://chinese rocks rg.otf" id="1_8hi3x"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_6p5ti"]
+font = ExtResource("1_8hi3x")
+font_size = 300
+
+[node name="txtbox3" type="Node2D" unique_id=1952995437]
+
+[node name="Label" type="Label" parent="." unique_id=341641900]
+offset_right = 3239.9998
+offset_bottom = 480.0
+scale = Vector2(0.05, 0.05)
+text = "Illusion blocks the eye emptiness guides the feet."
+label_settings = SubResource("LabelSettings_6p5ti")

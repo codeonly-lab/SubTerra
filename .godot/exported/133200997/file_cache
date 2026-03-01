@@ -1,0 +1,14 @@
+res://Scenes/arena.tscn::974814b5408b6684ebc7f7516f0c6f38::1772361277::res://.godot/exported/133200997/export-89be3d629663e38055291e0127327462-arena.scn
+res://Scenes/bg.tscn::35861c87620bc2dbf299f01fff9b1e11::1772360866::res://.godot/exported/133200997/export-067731fc00aef0f44ee4fb502d9285ab-bg.scn
+res://Scenes/coin.tscn::05d6de2929f2bdea7642d43290f9db43::1772358195::res://.godot/exported/133200997/export-cfd538a465b9799b811984d89e43d2b9-coin.scn
+res://Scenes/killzone.tscn::2c82d527b806e0237b097a9f5b63130a::1772358195::res://.godot/exported/133200997/export-d1af5ecceb7d635322ae60fe36e3ac29-killzone.scn
+res://Scenes/overworld.tscn::61ad99de276dcf8bcadce30d8b17890c::1772360957::res://.godot/exported/133200997/export-61789bcfd875252d12b102a4463648ae-overworld.scn
+res://Scenes/platform.tscn::510043e868a9b29071229124dabee6a6::1772358195::res://.godot/exported/133200997/export-1c750248b0c8da796cecd1f6aa3f1f6d-platform.scn
+res://Scenes/player.tscn::e9174ed75b03935abec0435aa91a5719::1772360961::res://.godot/exported/133200997/export-1753c997600d68ab5d20ae99fddb15c6-player.scn
+res://Scenes/powerstation.tscn::669e38566ff2eb577455039ffd587790::1772360959::res://.godot/exported/133200997/export-9405de75b42b6b05d2014575387e5873-powerstation.scn
+res://Scenes/txtbox.tscn::6ada028d85e111549a1f75798d3af180::1772359765::res://.godot/exported/133200997/export-267dfea82ee586733cbdfe09787c50e6-txtbox.scn
+res://Scenes/txtbox_2.tscn::428ca98623fedb6970277b3c4960f936::1772358288::res://.godot/exported/133200997/export-f80cd2f351fc82b9ee435d5b03da1685-txtbox_2.scn
+res://Scenes/txtbox_3.tscn::ec3d4114862c2cf0298e28439704741e::1772358288::res://.godot/exported/133200997/export-823757c2566757bf8c89547cb35a68e3-txtbox_3.scn
+res://Scenes/txtbox_4.tscn::8c419fe1f2584721717b5157807012d7::1772361003::res://.godot/exported/133200997/export-96df93bd7a2b41269616c7703bf186b4-txtbox_4.scn
+res://Scenes/txtbox_5.tscn::8ce531f10ca0df76bf435f4d7a4bf14d::1772359766::res://.godot/exported/133200997/export-e66f3cbda55584f14c64eb81003565ee-txtbox_5.scn
+res://Scenes/txtbox_6.tscn::0adb8190805f1cffd38c33788f9852e4::1772359767::res://.godot/exported/133200997/export-9f15867a2ed61399fee995b3891b504a-txtbox_6.scn

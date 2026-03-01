@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bl8b3mtk3pjjf"
+path="res://.godot/imported/Underclocked_-_Eric_Skiff_48KBPS (mp3cut.net).mp3-05a85a5397e0bda5b0cec3d211cb163a.mp3str"
+
+[deps]
+
+source_file="res://Underclocked_-_Eric_Skiff_48KBPS (mp3cut.net).mp3"
+dest_files=["res://.godot/imported/Underclocked_-_Eric_Skiff_48KBPS (mp3cut.net).mp3-05a85a5397e0bda5b0cec3d211cb163a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

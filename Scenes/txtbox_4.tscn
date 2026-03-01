@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://cb5euhnn3kw1j"]
+
+[ext_resource type="FontFile" uid="uid://b76auixnanrlh" path="res://chinese rocks rg.otf" id="1_f0vmx"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_7gsgg"]
+font = ExtResource("1_f0vmx")
+font_size = 250
+
+[node name="txtbox4" type="Node2D" unique_id=2083209680]
+
+[node name="Label" type="Label" parent="." unique_id=703026223]
+offset_right = 40.0
+offset_bottom = 23.0
+scale = Vector2(0.05, 0.05)
+text = "Stand where luck hides,
+ not where it shows."
+label_settings = SubResource("LabelSettings_7gsgg")

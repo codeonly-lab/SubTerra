@@ -1,0 +1,70 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1772361169
+Aso_-_Blankets_48KBPS (mp3cut.net).mp3::AudioStreamMP3::7842640105695635377::1772359793::1772359829::1::::<><><>0<>0<>e4379782dc867d91ae641ebfda0b9cd4<>res://.godot/imported/Aso_-_Blankets_48KBPS (mp3cut.net).mp3-bd6b455f3c5d3a1ef7fbc61656041e53.mp3str::
+Cartoon_Medieval_Armory_Level_Set_Background - Layer 00.png::CompressedTexture2D::8860254107375549983::1772359427::1772359453::1::::<><><>0<>0<>3bf6bba4da2bad006f4aa2c609a5bb48<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Background - Layer 00.png-dac4c0d161691f278b44a4d9e7ce4e09.ctex::
+chinese rocks rg.otf::FontFile::4696495562672582537::1772346222::1772358321::1::::<><><>0<>0<>4a0264ee0c76ac13949383f382a6d556<>res://.godot/imported/chinese rocks rg.otf-370836005cebe35d9cf7de30e147b329.fontdata::
+download (1).jpeg::CompressedTexture2D::8305561830089976066::1772358191::1772358191::1::::<><><>0<>0<>87ed841758a076fe7d7390733f5b989b<>res://.godot/imported/download (1).jpeg-1eb8d2407014f10cb9476160b74f168e.ctex::
+export_presets.cfg::TextFile::-1::1772361026::0::1::::<><><>0<>0<><>::
+icon.png::CompressedTexture2D::4260897997626724566::1772361157::1772361169::1::::<><><>0<>0<>72d2d74ed7825fc8e0365c57903e0e5e<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+image (2).png::CompressedTexture2D::3870487293875564017::1772358507::1772358524::1::::<><><>0<>0<>5b12effed1a5cbdfb67513acbc6f3d76<>res://.godot/imported/image (2).png-c05fea794236fe4c8471bd2fadda4f5e.ctex::
+killzone.gd::GDScript::2924655825347674132::1772358191::0::1::::<>Area2D<><>0<>0<><>::
+knight-spritesheet (1).png::CompressedTexture2D::7027846576317130379::1772360083::1772360272::1::::<><><>0<>0<>e46e9476f04757dd93debcf9031786e5<>res://.godot/imported/knight-spritesheet (1).png-e6f42199e8f91c3b4559fec2e6e25c63.ctex::
+Misha_-_Spirits_feat._Evil_Needle_48KBPS (mp3cut.net).mp3::AudioStreamMP3::4591591945956330903::1772359796::1772359829::1::::<><><>0<>0<>fd9e4c23d4a6d7a0d9c92f9fe9c13dc0<>res://.godot/imported/Misha_-_Spirits_feat._Evil_Needle_48KBPS (mp3cut.net).mp3-e143868ea62754838efb437473391a8d.mp3str::
+Underclocked_-_Eric_Skiff_48KBPS (mp3cut.net).mp3::AudioStreamMP3::3226733808941390995::1772359818::1772359829::1::::<><><>0<>0<>36e4389e64a8de191081ff98a7bfcf47<>res://.godot/imported/Underclocked_-_Eric_Skiff_48KBPS (mp3cut.net).mp3-05a85a5397e0bda5b0cec3d211cb163a.mp3str::
+::res://Assets/::1772358195
+::res://Assets/fonts/::1772358194
+PixelOperator8-Bold.ttf::FontFile::5255339591186470096::1772358194::1772358194::1::::<><><>0<>0<>16b0c307de98ba738718179a3f6bfaef<>res://.godot/imported/PixelOperator8-Bold.ttf-18d3f5771d654272ea5e81396761520b.fontdata::
+PixelOperator8.ttf::FontFile::6283488953580914906::1772358194::1772358194::1::::<><><>0<>0<>1bd62e621f03763e87d388978ddc86fb<>res://.godot/imported/PixelOperator8.ttf-23bb57fce2fe6dbb570e8add02d65ecc.fontdata::
+::res://Assets/music/::1772358194
+time_for_adventure.mp3::AudioStreamMP3::3117106747548575024::1772358194::1772358194::1::::<><><>0<>0<>2d5202f3808d4720d74fc0061d0ffac6<>res://.godot/imported/time_for_adventure.mp3-03457712da64731c4f2e6ca402d9e56d.mp3str::
+::res://Assets/sounds/::1772358195
+coin.wav::AudioStreamWAV::6653088850066168394::1772358194::1772358194::1::::<><><>0<>0<>189d172cd286098a9a5665061b71759d<>res://.godot/imported/coin.wav-a90ab7f02c97268f62cd0d3d51198a0f.sample::
+explosion.wav::AudioStreamWAV::3701641889242185518::1772358194::1772358194::1::::<><><>0<>0<>0e9627670a4f39ed71c748d60a4efe00<>res://.godot/imported/explosion.wav-93aee333cdacd774a9e9de2a83478f9f.sample::
+hurt.wav::AudioStreamWAV::7335976897778477112::1772358194::1772358194::1::::<><><>0<>0<>0c643443b05e6a952c90defb7f04b57a<>res://.godot/imported/hurt.wav-03eae188dc5364720c82bf41f5cac6a9.sample::
+jump.wav::AudioStreamWAV::6342116114665117276::1772358194::1772358194::1::::<><><>0<>0<>3d6082c8f1ba087afef4d2ea58172ca7<>res://.godot/imported/jump.wav-37a1b6f890a57621d547e6e872aeb357.sample::
+power_up.wav::AudioStreamWAV::5961729436222431591::1772358194::1772358194::1::::<><><>0<>0<>bf4d6cd838632332a0d2fdba6c4a7404<>res://.godot/imported/power_up.wav-359f8a6678099d5ff83eaa154a913f3b.sample::
+tap.wav::AudioStreamWAV::274792880880301835::1772358195::1772358195::1::::<><><>0<>0<>70b41cd9cef73246e3cbc25a63f34890<>res://.godot/imported/tap.wav-4501df6b6e4c02632fcee28bfc6332c4.sample::
+::res://Assets/sprites/::1772358195
+coin.png::CompressedTexture2D::6035187331992958366::1772358195::1772358195::1::::<><><>0<>0<>15bc0565c4c9f5bd9633cc558e08b255<>res://.godot/imported/coin.png-5cebf264b7708a56a3ce47f5a666e217.ctex::
+fruit.png::CompressedTexture2D::2922347473412872058::1772358195::1772358195::1::::<><><>0<>0<>c9c6dd783e561059b3dcdbdfadb2e2ab<>res://.godot/imported/fruit.png-ffffa8b0de582e4e19865d6cd600e2dd.ctex::
+knight.png::CompressedTexture2D::2335075098126227112::1772358195::1772358195::1::::<><><>0<>0<>6397c74179981edda885d4c1dde2d7dd<>res://.godot/imported/knight.png-f2df08b890c4ea830c735d8e0f73a8e2.ctex::
+medieval_arena.png::CompressedTexture2D::1005248721777551141::1772358195::1772358195::1::::<><><>0<>0<>e8d5637f61a59cc45cd56b25902bc234<>res://.godot/imported/medieval_arena.png-a8aad84ec82e027581702ca7c2addd98.ctex::
+platforms.png::CompressedTexture2D::1193856152170409290::1772358195::1772358195::1::::<><><>0<>0<>d49a443f5b30216ef4b8ba2af333f623<>res://.godot/imported/platforms.png-102ba142b90069627c83acab39f3928e.ctex::
+slime_green.png::CompressedTexture2D::7542951692648544683::1772358195::1772358195::1::::<><><>0<>0<>8b93a7058586b2cfefcf0f8d86e3ba98<>res://.godot/imported/slime_green.png-82ab2b7a3783e85117231b17359f2c2e.ctex::
+slime_purple.png::CompressedTexture2D::8271771039650550113::1772358195::1772358195::1::::<><><>0<>0<>cf4c8bc652659b6712fdb41ca73c3d58<>res://.godot/imported/slime_purple.png-43dfa43f13125aefcc7affc07742c2cf.ctex::
+Tileset.png::CompressedTexture2D::8248078360428164562::1772358195::1772358195::1::::<><><>0<>0<>0332234f65d8a788ccbdc1f35c9db3d3<>res://.godot/imported/Tileset.png-607dfb9faa034fcbdccb3932713ee8d8.ctex::
+world_tileset.png::CompressedTexture2D::7449778011100453229::1772358195::1772358195::1::::<><><>0<>0<>10887465da4e1d0e9479c22ea6a4999b<>res://.godot/imported/world_tileset.png-7d0351459d02dec97d7c98fe9a06c85b.ctex::
+::res://Assets/sprites/medieval/::1772358195
+Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 01.png::CompressedTexture2D::7493829961297019239::1772358195::1772358195::1::::<><><>0<>0<>9ff04b5297084e9d5982834a529e50fd<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 01.png-e9fd6ba54617a99bc8fdb98107c2585a.ctex::
+Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02.png::CompressedTexture2D::2124547042032645379::1772358195::1772358195::1::::<><><>0<>0<>3b3927335330c9eab093d8af9cafdfd7<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 02.png-395a484e57401311784ade8842bb792e.ctex::
+Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 03.png::CompressedTexture2D::1566201287991457164::1772358195::1772358195::1::::<><><>0<>0<>e25ffc346c660b400fcb0563433f7c6c<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 03.png-f8a1b9cac3ae371d00fa268e78618546.ctex::
+Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 04.png::CompressedTexture2D::158925997912211284::1772358195::1772358195::1::::<><><>0<>0<>0ee2c2585dce75335be59830deaa4dd3<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 04.png-c9db66303b97aba10776e5e9ad22d199.ctex::
+Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 05.png::CompressedTexture2D::5506868136795614991::1772358195::1772358195::1::::<><><>0<>0<>b05829cfb9f0601bb8b604b96eabd980<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 05.png-0b7a9b7e7c360ab137032022a8356781.ctex::
+Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 06.png::CompressedTexture2D::1913826146410423271::1772358195::1772358195::1::::<><><>0<>0<>8076d5a243a9d7c8e5221756d4c221be<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 06.png-6988bb29517c0c792e188d7a0f66c5d0.ctex::
+Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 07.png::CompressedTexture2D::3336630816166909249::1772358195::1772358195::1::::<><><>0<>0<>7b556515ddaac38f4e83a1ef5e6f8931<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 07.png-24d0674b91a32110d3e365795897c48b.ctex::
+Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 08.png::CompressedTexture2D::4275938191290025876::1772358195::1772358195::1::::<><><>0<>0<>6d098a44cbe3a0f7155c323b67f97fd0<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 08.png-90fa59a33c2e9fe5acf1a9720bd1ad12.ctex::
+Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 09.png::CompressedTexture2D::198631633835622181::1772358195::1772358195::1::::<><><>0<>0<>f12ee12724435a7bc4022b6c034ecc2f<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 09.png-f8e2f02475d6f36c5a616c10ce8db020.ctex::
+Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 10.png::CompressedTexture2D::5718040220618190140::1772358195::1772358195::1::::<><><>0<>0<>bf8e9a2a013f8edc35aec2a3a19636ff<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 10.png-0ec7f3125ec033f0cbf375c9695c856b.ctex::
+Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 11.png::CompressedTexture2D::5385794245355733510::1772358195::1772358195::1::::<><><>0<>0<>f98f48b71115d27e85f95a9dccd87434<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 11.png-4141259be39a0f33ed129db1326b457e.ctex::
+Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 12.png::CompressedTexture2D::5395530357556062367::1772358195::1772358195::1::::<><><>0<>0<>c51ed8be0c34c941fff9fbde0d99e497<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 12.png-927a1c46214dc49e7f5c28ad49b43939.ctex::
+Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 13.png::CompressedTexture2D::7980581353771443211::1772358195::1772358195::1::::<><><>0<>0<>c3f6127119e439a325e54848bb00dac1<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 13.png-fbebcbcdf5f67abd2273ae47de5eb6ef.ctex::
+::res://Scenes/::1772361011
+arena.tscn::PackedScene::52079719650213743::1772361011::0::1::::<><><>0<>0<><>::uid://xqt5r4ullpk2::::res://Scenes/player.tscn<>uid://dprov7igh060m::::res://Assets/sprites/Tileset.png<>uid://ok7kgkwg5clx::::res://Assets/sprites/medieval_arena.png<>uid://cmgjjehal4gsq::::res://Scenes/killzone.tscn<>uid://cb5euhnn3kw1j::::res://Scenes/txtbox_4.tscn<>uid://curljr1y4hk1f::::res://Scenes/txtbox_6.tscn<>uid://dyh8dc14yssmp::::res://Cartoon_Medieval_Armory_Level_Set_Background - Layer 00.png<>uid://cle67s3s1xmaq::::res://Scenes/coin.tscn<>uid://b6og3343mcmvn::::res://Misha_-_Spirits_feat._Evil_Needle_48KBPS (mp3cut.net).mp3
+bg.tscn::PackedScene::683160611804312019::1772360866::0::1::::<><><>0<>0<><>::uid://dqljnix81kwn7::::res://download (1).jpeg
+coin.tscn::PackedScene::5555116520129840984::1772358195::0::1::::<><><>0<>0<><>::uid://8xycf3ql5dyl::::res://Scripts/coin.gd<>uid://cr8qwhtlivspq::::res://Assets/sprites/coin.png
+killzone.tscn::PackedScene::5628056503569870180::1772358195::0::1::::<><><>0<>0<><>::uid://bhwywigsy5knc::::res://killzone.gd
+overworld.tscn::PackedScene::4360695003910823523::1772360957::0::1::::<><><>0<>0<><>::uid://xqt5r4ullpk2::::res://Scenes/player.tscn<>uid://dprov7igh060m::::res://Assets/sprites/Tileset.png<>uid://deey0xi5pei5b::::res://Assets/sprites/world_tileset.png<>uid://cj11a4jsu7ggu::::res://Scenes/platform.tscn<>uid://cmgjjehal4gsq::::res://Scenes/killzone.tscn<>uid://cle67s3s1xmaq::::res://Scenes/coin.tscn<>uid://jy6s5eaocyln::::res://Scenes/bg.tscn<>res://Scenes/txtbox_4.tscn<>uid://dj0bewbrrns5v::::res://Aso_-_Blankets_48KBPS (mp3cut.net).mp3
+platform.tscn::PackedScene::5459794961472198968::1772358195::0::1::::<><><>0<>0<><>::uid://rakvvxeqfo2u::::res://Assets/sprites/platforms.png
+player.tscn::PackedScene::1648581583039549683::1772360961::0::1::::<><><>0<>0<><>::uid://bl5yxyg8u8pnf::::res://Scripts/player.gd<>uid://8jel0vxiglmu::::res://Assets/sprites/knight.png<>uid://c7eluu6hs2sbj::::res://knight-spritesheet (1).png
+powerstation.tscn::PackedScene::6174066888362173040::1772360959::0::1::::<><><>0<>0<><>::uid://xqt5r4ullpk2::::res://Scenes/player.tscn<>uid://cj11a4jsu7ggu::::res://Scenes/platform.tscn<>uid://dprov7igh060m::::res://Assets/sprites/Tileset.png<>uid://cmgjjehal4gsq::::res://Scenes/killzone.tscn<>uid://bve5mipcf7lwj::::res://image (2).png<>res://Scenes/txtbox_3.tscn<>res://Scenes/txtbox_2.tscn<>uid://eyflxvoagjr7::::res://Scenes/txtbox.tscn<>uid://cle67s3s1xmaq::::res://Scenes/coin.tscn<>uid://bl8b3mtk3pjjf::::res://Underclocked_-_Eric_Skiff_48KBPS (mp3cut.net).mp3
+txtbox.tscn::PackedScene::330624910460639158::1772359765::0::1::::<><><>0<>0<><>::uid://b76auixnanrlh::::res://chinese rocks rg.otf
+txtbox_2.tscn::PackedScene::-1::1772358288::0::1::::<><><>0<>0<><>::
+txtbox_3.tscn::PackedScene::-1::1772358288::0::1::::<><><>0<>0<><>::
+txtbox_4.tscn::PackedScene::4905240515869597253::1772361003::0::1::::<><><>0<>0<><>::uid://b76auixnanrlh::::res://chinese rocks rg.otf
+txtbox_5.tscn::PackedScene::5039009793407415244::1772359766::0::1::::<><><>0<>0<><>::uid://b76auixnanrlh::::res://chinese rocks rg.otf
+txtbox_6.tscn::PackedScene::6212397555222799913::1772359767::0::1::::<><><>0<>0<><>::uid://b76auixnanrlh::::res://chinese rocks rg.otf
+::res://Scripts/::1772360746
+coin.gd::GDScript::2365173614426772711::1772358195::0::1::::<>Area2D<><>0<>0<><>::
+desktop.ini::TextFile::-1::1772358195::0::1::::<><><>0<>0<><>::
+player.gd::GDScript::3221928848776098787::1772360746::0::1::::<>CharacterBody2D<><>0<>0<><>::
+SceneManager.gd::GDScript::5864488933058103365::1772358195::0::1::::<>Node<><>0<>0<><>::

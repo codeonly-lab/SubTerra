@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://curljr1y4hk1f"]
+
+[ext_resource type="FontFile" uid="uid://b76auixnanrlh" path="res://chinese rocks rg.otf" id="1_g4aob"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_qsq4m"]
+font = ExtResource("1_g4aob")
+font_size = 370
+
+[node name="txtbox6" type="Node2D" unique_id=1933877244]
+
+[node name="Label" type="Label" parent="." unique_id=327511166]
+offset_right = 40.0
+offset_bottom = 23.0
+scale = Vector2(0.05, 0.05)
+text = "   Cerified 
+teleporter!!"
+label_settings = SubResource("LabelSettings_qsq4m")

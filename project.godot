@@ -1,0 +1,70 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="SubTerra"
+config/description="The Lore
+Sir Caelen was never an ordinary knight. Bound by a forgotten oath and cursed with a reality-bending superpower, he serves as the last Realm Walker—a warrior capable of tearing through the fabric of the multiverse at will. His duty is to explore and maintain the balance between three distinct dimensions, each holding its own dangers, secrets, and platforming challenges.
+The Three Realms
+The Overworld: The anchor of reality. A familiar, lush world of green fields and open skies where Caelen begins his journey.
+The Echoing Grottos: A sprawling, subterranean abyss. Plunged in darkness and illuminated only by bioluminescent flora, this cave world is treacherous, requiring precise footing to survive its deep chasms.
+Aethelgard: A grand but decaying medieval kingdom. A world of towering stone castles, shattered drawbridges, and forgotten monarchs, where the remnants of a glorious past are frozen in eternal twilight.
+
+Controls
+Navigate the realms and master Caelen's teleportation powers using the following keys:
+Movement
+Left Arrow: Run Left
+Right Arrow: Run Right
+Up Arrow: Jump
+Teleportation (Superpowers)
+Instantly rip a hole in space-time to travel between dimensions. Coordinate preservation allows you to bypass obstacles in one world by walking past them in another!
+Press 1: Teleport to The Overworld
+Press 2: Teleport to The Echoing Grottos
+Press 3: Teleport to Aethelgard"
+config/version="v1.0.0"
+run/main_scene="uid://b3emaldwyl1ml"
+config/features=PackedStringArray("4.6", "Forward Plus")
+config/icon="uid://b1yamq3cbd7di"
+
+[autoload]
+
+SceneManager="*uid://cps2jm7ta7xpl"
+
+[dotnet]
+
+project/assembly_name="Final"
+
+[input]
+
+world1={
+"deadzone": 0.2,
+"events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":0,"physical_keycode":49,"key_label":0,"unicode":49,"location":0,"echo":false,"script":null)
+]
+}
+world2={
+"deadzone": 0.2,
+"events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":0,"physical_keycode":50,"key_label":0,"unicode":50,"location":0,"echo":false,"script":null)
+]
+}
+world3={
+"deadzone": 0.2,
+"events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":0,"physical_keycode":51,"key_label":0,"unicode":51,"location":0,"echo":false,"script":null)
+]
+}
+
+[physics]
+
+3d/physics_engine="Jolt Physics"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
+rendering_device/driver.windows="d3d12"

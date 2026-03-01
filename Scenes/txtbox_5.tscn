@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://cd160w5aphucq"]
+
+[ext_resource type="FontFile" uid="uid://b76auixnanrlh" path="res://chinese rocks rg.otf" id="1_cgcyu"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_xgg3x"]
+font = ExtResource("1_cgcyu")
+font_size = 400
+
+[node name="txtbox5" type="Node2D" unique_id=85485541]
+
+[node name="Label" type="Label" parent="." unique_id=1423923437]
+offset_left = -1.9999998
+offset_top = -0.99999994
+offset_right = 3402.0
+offset_bottom = 479.0
+scale = Vector2(0.05, 0.05)
+text = "Reminds you of mario ?"
+label_settings = SubResource("LabelSettings_xgg3x")

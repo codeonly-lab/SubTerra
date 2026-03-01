@@ -1,0 +1,10 @@
+res://Scenes/overworld.tscn
+res://Scenes/powerstation.tscn
+res://Scenes/txtbox.tscn
+res://Scenes/arena.tscn
+res://Scenes/txtbox_6.tscn
+res://Scenes/txtbox_5.tscn
+res://Scenes/player.tscn
+res://Scripts/player.gd
+res://Scenes/bg.tscn
+res://Scenes/txtbox_4.tscn

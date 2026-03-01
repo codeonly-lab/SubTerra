@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://eyflxvoagjr7"]
+
+[ext_resource type="FontFile" uid="uid://b76auixnanrlh" path="res://chinese rocks rg.otf" id="1_7uc52"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_7uc52"]
+font = ExtResource("1_7uc52")
+font_size = 410
+
+[node name="txtbox" type="Node2D" unique_id=1128775524]
+z_index = -10
+
+[node name="Label" type="Label" parent="." unique_id=320631832]
+offset_right = 197.0
+offset_bottom = 94.0
+scale = Vector2(0.05, 0.05)
+text = "Between walls of uncertainty 
+lies the truth"
+label_settings = SubResource("LabelSettings_7uc52")
