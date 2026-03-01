@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1772301651
+::res://::1772337107
 ::res://Assets/::1772296911
 ::res://Assets/fonts/::1772297867
 PixelOperator8-Bold.ttf::FontFile::5255339591186470096::1772296911::1772297867::1::::<><><>0<>0<>16b0c307de98ba738718179a3f6bfaef<>res://.godot/imported/PixelOperator8-Bold.ttf-18d3f5771d654272ea5e81396761520b.fontdata::
@@ -13,7 +13,7 @@ hurt.wav::AudioStreamWAV::7335976897778477112::1772296911::1772297867::1::::<><>
 jump.wav::AudioStreamWAV::6342116114665117276::1772296911::1772297868::1::::<><><>0<>0<>3d6082c8f1ba087afef4d2ea58172ca7<>res://.godot/imported/jump.wav-37a1b6f890a57621d547e6e872aeb357.sample::
 power_up.wav::AudioStreamWAV::5961729436222431591::1772296911::1772297868::1::::<><><>0<>0<>bf4d6cd838632332a0d2fdba6c4a7404<>res://.godot/imported/power_up.wav-359f8a6678099d5ff83eaa154a913f3b.sample::
 tap.wav::AudioStreamWAV::274792880880301835::1772296911::1772297868::1::::<><><>0<>0<>70b41cd9cef73246e3cbc25a63f34890<>res://.godot/imported/tap.wav-4501df6b6e4c02632fcee28bfc6332c4.sample::
-::res://Assets/sprites/::1772307389
+::res://Assets/sprites/::1772307392
 coin.png::CompressedTexture2D::6035187331992958366::1772296911::1772297867::1::::<><><>0<>0<>15bc0565c4c9f5bd9633cc558e08b255<>res://.godot/imported/coin.png-5cebf264b7708a56a3ce47f5a666e217.ctex::
 fruit.png::CompressedTexture2D::2922347473412872058::1772296911::1772297867::1::::<><><>0<>0<>c9c6dd783e561059b3dcdbdfadb2e2ab<>res://.godot/imported/fruit.png-ffffa8b0de582e4e19865d6cd600e2dd.ctex::
 knight.png::CompressedTexture2D::2335075098126227112::1772296911::1772297867::1::::<><><>0<>0<>6397c74179981edda885d4c1dde2d7dd<>res://.godot/imported/knight.png-f2df08b890c4ea830c735d8e0f73a8e2.ctex::
@@ -37,12 +37,12 @@ Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 10.png::CompressedTexture2
 Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 11.png::CompressedTexture2D::5385794245355733510::1772305928::1772305929::1::::<><><>0<>0<>f98f48b71115d27e85f95a9dccd87434<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 11.png-4141259be39a0f33ed129db1326b457e.ctex::
 Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 12.png::CompressedTexture2D::5395530357556062367::1772305928::1772305930::1::::<><><>0<>0<>c51ed8be0c34c941fff9fbde0d99e497<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 12.png-927a1c46214dc49e7f5c28ad49b43939.ctex::
 Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 13.png::CompressedTexture2D::7980581353771443211::1772305928::1772305930::1::::<><><>0<>0<>c3f6127119e439a325e54848bb00dac1<>res://.godot/imported/Cartoon_Medieval_Armory_Level_Set_Platformer - Ground 13.png-fbebcbcdf5f67abd2273ae47de5eb6ef.ctex::
-::res://Scenes/::1772304831
-overworld.tscn::PackedScene::4360695003910823523::1772303056::0::1::::<><><>0<>0<><>::uid://xqt5r4ullpk2::::res://Scenes/player.tscn<>uid://dprov7igh060m::::res://Assets/sprites/Tileset.png<>uid://deey0xi5pei5b::::res://Assets/sprites/world_tileset.png<>uid://cj11a4jsu7ggu::::res://Scenes/platform.tscn
+::res://Scenes/::1772309660
+arena.tscn::PackedScene::52079719650213743::1772307749::0::1::::<><><>0<>0<><>::uid://xqt5r4ullpk2::::res://Scenes/player.tscn<>uid://dprov7igh060m::::res://Assets/sprites/Tileset.png<>uid://ok7kgkwg5clx::::res://Assets/sprites/medieval_arena.png
+overworld.tscn::PackedScene::4360695003910823523::1772309304::0::1::::<><><>0<>0<><>::uid://xqt5r4ullpk2::::res://Scenes/player.tscn<>uid://dprov7igh060m::::res://Assets/sprites/Tileset.png<>uid://deey0xi5pei5b::::res://Assets/sprites/world_tileset.png<>uid://cj11a4jsu7ggu::::res://Scenes/platform.tscn
 platform.tscn::PackedScene::5459794961472198968::1772296911::0::1::::<><><>0<>0<><>::uid://rakvvxeqfo2u::::res://Assets/sprites/platforms.png
-player.tscn::PackedScene::1648581583039549683::1772296911::0::1::::<><><>0<>0<><>::uid://8jel0vxiglmu::::res://Assets/sprites/knight.png
+player.tscn::PackedScene::1648581583039549683::1772309660::0::1::::<><><>0<>0<><>::uid://8jel0vxiglmu::::res://Assets/sprites/knight.png
 powerstation.tscn::PackedScene::6174066888362173040::1772304831::0::1::::<><><>0<>0<><>::uid://xqt5r4ullpk2::::res://Scenes/player.tscn<>uid://dprov7igh060m::::res://Assets/sprites/Tileset.png<>uid://deey0xi5pei5b::::res://Assets/sprites/world_tileset.png
-arena.tscn::PackedScene::52079719650213743::1772304641::0::1::::<><><>0<>0<><>::
-::res://Scripts/::1772296911
+::res://Scripts/::1772309424
 desktop.ini::TextFile::-1::1772296911::0::1::::<><><>0<>0<><>::
-player.gd::GDScript::3221928848776098787::1772296911::0::1::::<>CharacterBody2D<><>0<>0<><>::
+player.gd::GDScript::3221928848776098787::1772309424::0::1::::<>CharacterBody2D<><>0<>0<><>::
