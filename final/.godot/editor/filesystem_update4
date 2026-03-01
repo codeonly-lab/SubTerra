@@ -1,0 +1,8 @@
+res://Scenes/player.tscn
+res://Scripts/SceneManager.gd
+res://Scenes/overworld.tscn
+res://Scripts/player.gd
+res://Scenes/powerstation.tscn
+res://Scenes/arena.tscn
+res://Scenes/killzone.tscn
+res://killzone.gd

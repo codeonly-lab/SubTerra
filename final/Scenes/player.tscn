@@ -1,43 +1,7 @@
 [gd_scene format=3 uid="uid://xqt5r4ullpk2"]
 
+[ext_resource type="Script" uid="uid://bl5yxyg8u8pnf" path="res://Scripts/player.gd" id="1_cvnsp"]
 [ext_resource type="Texture2D" uid="uid://8jel0vxiglmu" path="res://Assets/sprites/knight.png" id="1_v0iea"]
-
-[sub_resource type="GDScript" id="GDScript_v0iea"]
-script/source = "
-
-extends CharacterBody2D
-
-
-const SPEED = 110.0
-const JUMP_VELOCITY = -270.0
-
-
-func _physics_process(delta: float) -> void:
-	# Add the gravity.
-	if not is_on_floor():
-		velocity += get_gravity() * delta
-
-	# Handle jump.
-	if Input.is_action_just_pressed(\"ui_accept\") and is_on_floor():
-		velocity.y = JUMP_VELOCITY
-
-	# Get the input direction and handle the movement/deceleration.
-	# As good practice, you should replace UI actions with custom gameplay actions.
-	var direction := Input.get_axis(\"ui_left\", \"ui_right\")
-	if direction:
-		velocity.x = direction * SPEED
-	else:
-		velocity.x = move_toward(velocity.x, 0, SPEED)
-
-	move_and_slide()
-
-func _process(delta):
-	if Input.is_action_just_pressed(\"world1\"):
-		get_tree().change_scene_to_file(\"res://Scenes/overworld.tscn\")
-
-	if Input.is_action_just_pressed(\"world2\"):
-		get_tree().change_scene_to_file(\"res://Scenes/powerstation.tscn\")
-"
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_cvnsp"]
 atlas = ExtResource("1_v0iea")
@@ -78,8 +42,8 @@ animations = [{
 [sub_resource type="CircleShape2D" id="CircleShape2D_3smsa"]
 radius = 5.0
 
-[node name="Player" type="CharacterBody2D" unique_id=484797054]
-script = SubResource("GDScript_v0iea")
+[node name="Player" type="CharacterBody2D" unique_id=484797054 groups=["player"]]
+script = ExtResource("1_cvnsp")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=828391244]
 position = Vector2(-1, -12)
