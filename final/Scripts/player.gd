@@ -5,6 +5,7 @@ extends CharacterBody2D
 const SPEED = 110.0
 const JUMP_VELOCITY = -270.0
 var spawn_position: Vector2
+@onready var sprite: AnimatedSprite2D = $AnimatedSprite2D
 
 func _physics_process(delta: float) -> void:
 	# Add the gravity.
@@ -12,7 +13,7 @@ func _physics_process(delta: float) -> void:
 		velocity += get_gravity() * delta
 
 	# Handle jump.
-	if Input.is_action_just_pressed("ui_accept") and is_on_floor():
+	if Input.is_action_just_pressed("ui_up") and is_on_floor():
 		velocity.y = JUMP_VELOCITY
 
 	var direction := Input.get_axis("ui_left", "ui_right")
@@ -20,6 +21,11 @@ func _physics_process(delta: float) -> void:
 		velocity.x = direction * SPEED
 	else:
 		velocity.x = move_toward(velocity.x, 0, SPEED)
+	#Flip Player
+	if velocity.x < 0:
+		$AnimatedSprite2D.flip_h = true
+	elif velocity.x>0:
+		$AnimatedSprite2D.flip_h = false
 
 	move_and_slide()
 
